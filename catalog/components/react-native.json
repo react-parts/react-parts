@@ -1944,5 +1944,10 @@
     "name": "react-native-refresh-infinite-listview",
     "repo": "remobile/react-native-refresh-infinite-listview",
     "description": "A awesome pull-down-refresh and pull-up-loadmore listview"
+  },
+  {
+    "name": "react-native-marquee-label",
+    "repo": "remobile/react-native-marquee-label",
+    "description": "A marquee label for react-native"
   }
 ]
