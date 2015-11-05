@@ -1959,5 +1959,10 @@
     "name": "react-native-pingpp",
     "repo": "weflex/react-native-pingpp",
     "description": "A React-Native(RN) binding library for Ping++"
+  },
+  {
+    "name": "react-native-des",
+    "repo": "remobile/react-native-des",
+    "description": "A des crypto for react-native"
   }
 ]
