@@ -2069,5 +2069,15 @@
     "name": "scene-router",
     "repo": "pressly/scene-router",
     "description": "A complete scene routing library for react native"
+  },
+  {
+    "name": "react-native-mongoose",
+    "repo": "remobile/react-native-mongoose",
+    "description": "A AsyncStorage based mongoose like storage for react-native"
+  },
+  {
+    "name": "react-native-action-sheet",
+    "repo": "remobile/react-native-action-sheet",
+    "description": "A pure js ActionSheet like ios ActionSheet, support ios and android"
   }
 ]
