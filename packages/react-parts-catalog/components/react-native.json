@@ -2356,5 +2356,10 @@
     "name": "react-native-wheel",
     "repo": "shexiaoheng/react-native-wheel",
     "description": "android wheel view for react-native"
+  },
+  {
+    "name": "rn-camera-roll",
+    "repo": "bamlab/rn-camera-roll",
+    "description": "Use the React native CameraRoll API with both Android & iOS"
   }
 ]
