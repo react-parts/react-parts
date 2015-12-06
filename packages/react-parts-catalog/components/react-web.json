@@ -13958,5 +13958,10 @@
     "name": "rx-react-container",
     "repo": "zxbodya/rx-react-container",
     "description": "Connects observables and observers to react components"
+  },
+  {
+    "name": "redux-localstorage-immutable",
+    "repo": "jakelazaroff/redux-localstorage-immutable",
+    "description": "Enhancer for redux-localstorage that allows you to persist an immutable store"
   }
 ]
