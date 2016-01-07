@@ -15367,5 +15367,10 @@
     "name": "webpack-hot-server",
     "repo": "egoist/webpack-hot-server",
     "description": "A short-hand to establish a web server for hot reloading."
+  },
+  {
+    "name": "react-discrete-slider",
+    "repo": "emadb/react-discrete-slider",
+    "description": "A simple slider bar with buttons."
   }
 ]
