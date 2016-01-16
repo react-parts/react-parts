@@ -1,5 +1,10 @@
 [
   {
+    "name": "react-native-odoo",
+    "repo": "kevin3274/react-native-odoo",
+    "description": "Connect to Odoo(OpenERP) server by react-native"
+  },
+  {
     "name": "react-native-viewport-units",
     "repo": "jmstout/react-native-viewport-units",
     "description": "Incredibly simple utility for (sort of) using viewport units with React Native."
