@@ -1116,6 +1116,11 @@
     "description": "A Google+ login manager and <GooglePlusLoginButton /> for react-native"
   },
   {
+    "name": "react-native-maps",
+    "repo": "lelandrichardson/react-native-maps",
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
     "name": "react-native-google-static-map",
     "repo": "yelled3/react-native-google-static-map",
     "description": "A wrapper for Google's Static Maps"
