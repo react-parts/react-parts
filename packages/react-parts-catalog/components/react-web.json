@@ -1,5 +1,10 @@
 [
   {
+    "name": "react-battery-manager",
+    "repo": "abdennour/react-battery-manager",
+    "description": "React component for tracking battery status"
+  },  
+  {
     "name": "time-pikinator",
     "repo": "kofno/time-pikinator",
     "description": "React component for picking times"
