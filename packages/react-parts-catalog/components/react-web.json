@@ -15480,5 +15480,10 @@
     "name": "remote-redux-devtools",
     "repo": "zalmoxisus/remote-redux-devtools",
     "description": "Relay Redux actions to remote Redux DevTools."
+  },
+  {
+    "name": "react-d3-treemap",
+    "repo": "jquintozamora/react-d3-treemap",
+    "description": "Treemap based on d3.treemap built using React."
   }
 ]
